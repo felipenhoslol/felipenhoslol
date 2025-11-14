@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome éé Luiz Felipe</h1>
+<h1 align="center">Olá, meu nome é Luiz Felipe</h1>
 <h3 align="center">Estudante do Curso Técnico de Desenvolvimento de Sistemas</h3>
 
 - 🔭 No momento trabalhando em [Arquitetura MVC](https://github.com/felipenhoslol/estudo-MVC)
