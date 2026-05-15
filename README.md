@@ -123,8 +123,8 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
 
 <div align="center">
 
-> *"a vida é tão lente e eu só acelero"*  
-> — **Twikipedia**
+> *"a vida é tão lenta e eu só acelero"*  
+> — **twikipedia**
 
 </div>
 
@@ -134,7 +134,7 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
   <sub><i>commitando código, ouvindo sewerslvt, e vendo Chainsaw Man no intervalo.</i></sub>
   <br/>
   <sub>
-    <a href="https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k">🎵 Twikipedia</a>
+    <a href="https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k">🎵 twikipedia</a>
     &nbsp;·&nbsp;
     <a href="https://open.spotify.com/artist/1A2L7SCF3MZ5bTI5mEkCTF">🎵 sewerslvt</a>
     &nbsp;·&nbsp;
