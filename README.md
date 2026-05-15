@@ -92,12 +92,16 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
     <img src="https://github-readme-stats.vercel.app/api?username=felipenhoslol&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&cache_seconds=1800" height="160" />
   </a>
   <a href="https://github.com/felipenhoslol">
-    <img src="https://streak-stats.demolab.com/?user=felipenhoslol&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="160" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipenhoslol&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="160" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenhoslol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&langs_count=6&cache_seconds=1800" height="130" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipenhoslol&theme=tokyonight" width="700"/>
 </div>
 
 ---
@@ -106,17 +110,20 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
 
 <div align="center">
 
+<img src="https://media.tenor.com/mzCEGNKRSsIAAAAd/chainsaw-man-denji.gif" width="280" align="right" />
+
 | 🎵 No Fone | 📖 Na Cabeceira | 🎬 Na Tela |
 |:---:|:---:|:---:|
-| [![Twikipedia](https://img.shields.io/badge/Twikipedia-Discografia-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k) | [![Scott Pilgrim](https://img.shields.io/badge/Bryan_Lee_O'Malley-Scott_Pilgrim-e63946?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.bryanleeomalley.com/) | [![Scott Pilgrim vs. the World](https://img.shields.io/badge/Scott_Pilgrim-vs._the_World_(film)-FFD700?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/title/tt0446029/) |
+| [![Twikipedia](https://img.shields.io/badge/Twikipedia-Discografia-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k) | [![Scott Pilgrim](https://img.shields.io/badge/Bryan_Lee_O'Malley-Scott_Pilgrim-e63946?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.bryanleeomalley.com/) | [![Chainsaw Man](https://img.shields.io/badge/Chainsaw_Man-Anime-FF4500?style=for-the-badge&logo=crunchyroll&logoColor=white)](https://myanimelist.net/anime/44511/Chainsaw_Man) |
+| [![sewerslvt](https://img.shields.io/badge/sewerslvt-Discografia-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1A2L7SCF3MZ5bTI5mEkCTF) | [![Scott Pilgrim](https://img.shields.io/badge/Scott_Pilgrim-vs._the_World_(film)-FFD700?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/title/tt0446029/) | [![MAL](https://img.shields.io/badge/Fujimoto_Tatsuki-Mangaka-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/people/11397/Tatsuki_Fujimoto) |
 
 </div>
 
-<br/>
+<br clear="right"/>
 
 <div align="center">
 
-> *"A vida é tão lenta e eu só acelero"*  
+> *"a vida é tão lente e eu só acelero"*  
 > — **Twikipedia**
 
 </div>
@@ -124,12 +131,14 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
 ---
 
 <div align="center">
-  <sub><i>"tentando.</i></sub>
+  <sub><i>commitando código, ouvindo sewerslvt, e vendo Chainsaw Man no intervalo.</i></sub>
   <br/>
   <sub>
     <a href="https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k">🎵 Twikipedia</a>
     &nbsp;·&nbsp;
-    <a href="https://www.bryanleeomalley.com/">📖 Bryan Lee O'Malley</a>
+    <a href="https://open.spotify.com/artist/1A2L7SCF3MZ5bTI5mEkCTF">🎵 sewerslvt</a>
+    &nbsp;·&nbsp;
+    <a href="https://myanimelist.net/anime/44511/Chainsaw_Man">⛓️ Chainsaw Man</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/felipenhoslol">💻 GitHub</a>
   </sub>
