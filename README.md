@@ -1,7 +1,7 @@
 # Olá, eu sou o Luiz Felipe! 👋
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif"  />
+  <img height="150" src="https://cdn.discordapp.com/attachments/1354790187296755884/1437424122022858764/IMG_9346.gif?ex=6a086808&is=6a071688&hm=85d470943b1f6817e60c18d969b41cbf3277a9d90774e1e59c130fe7c78e54f3"  />
 </div>
 
 ### Desenvolvedor Full-Stack & Entusiasta de Segurança da Informação 💻🔒
@@ -41,9 +41,9 @@ Aqui estão alguns dos desafios práticos que encarei recentemente:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radium&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipenhoslol&show_icons=true&theme=radium&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipenhoslol&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
