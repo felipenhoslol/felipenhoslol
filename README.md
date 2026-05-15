@@ -5,7 +5,7 @@
 <br/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Luiz+Felipe+👋;Full-Stack+Developer;Offensive+Security+Enthusiast;Buscando+Jovem+Aprendiz&font=Fira+Code&center=true&width=550&height=55&color=3b82f6&vCenter=true&pause=900&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Luiz+Felipe;Full-Stack+Developer;Offensive+Security+Enthusiast;Buscando+Jovem+Aprendiz+%2F+Estagio&font=Fira+Code&center=true&width=580&height=55&color=3b82f6&vCenter=true&pause=900&size=22" alt="Luiz Felipe — Full-Stack Developer" />
 </h1>
 
 <p>
@@ -89,25 +89,48 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
 
 <div align="center">
   <a href="https://github.com/felipenhoslol">
-    <img src="https://github-readme-stats.vercel.app/api?username=felipenhoslol&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=felipenhoslol&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&cache_seconds=1800" height="160" />
   </a>
   <a href="https://github.com/felipenhoslol">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipenhoslol&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="160" />
+    <img src="https://streak-stats.demolab.com/?user=felipenhoslol&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" height="160" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenhoslol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&langs_count=6" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenhoslol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&langs_count=6&cache_seconds=1800" height="130" />
 </div>
 
 ---
 
 ### 🎧 Fora do Terminal
 
-> Quando não estou debugando, estou ouvindo Racionais ou relendo Scott Pilgrim pela décima vez.
+<div align="center">
+
+| 🎵 No Fone | 📖 Na Cabeceira | 🎬 Na Tela |
+|:---:|:---:|:---:|
+| [![Twikipedia](https://img.shields.io/badge/Twikipedia-Discografia-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k) | [![Scott Pilgrim](https://img.shields.io/badge/Bryan_Lee_O'Malley-Scott_Pilgrim-e63946?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.bryanleeomalley.com/) | [![Scott Pilgrim vs. the World](https://img.shields.io/badge/Scott_Pilgrim-vs._the_World_(film)-FFD700?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/title/tt0446029/) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"A vida é tão lenta e eu só acelero"*  
+> — **Twikipedia**
+
+</div>
 
 ---
 
 <div align="center">
-  <sub><i>"Sobrevivendo no inferno" — e commitando código todo dia.</i></sub>
+  <sub><i>"tentando.</i></sub>
+  <br/>
+  <sub>
+    <a href="https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k">🎵 Twikipedia</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.bryanleeomalley.com/">📖 Bryan Lee O'Malley</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/felipenhoslol">💻 GitHub</a>
+  </sub>
 </div>
