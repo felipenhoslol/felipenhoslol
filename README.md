@@ -1,24 +1,62 @@
-<h1 align="center">Olá, meu nome é Luiz Felipe</h1>
-<h3 align="center">Estudante do Curso Técnico de Desenvolvimento de Sistemas</h3>
+# Olá, eu sou o Luiz Felipe! 👋
 
-- 🔭 No momento trabalhando em [Arquitetura MVC](https://github.com/felipenhoslol/estudo-MVC)
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif"  />
+</div>
 
-- 🌱 Atualmente aprendendo **Arquitetura MVC**
+### Desenvolvedor Full-Stack & Entusiasta de Segurança da Informação 💻🔒
 
-- 📫 Me contate **felipenhos.1000@gmail.com**
+Sou um desenvolvedor em formação técnica em Desenvolvimento de Sistemas, focado em construir arquiteturas limpas e sistemas seguros. Tenho paixão por resolver problemas complexos e otimizar processos, seja estruturando um banco de dados relacional ou explorando conceitos de offensive security.
 
-- ⚡ Fato divertido **Gosto de jogos indie e tenho interesse em desenvolver jogos!**
+---
 
-<h3 align="left">Me mande uma mensagem:</h3>
-<p align="left">
-<a href="https://instagram.com/felipenhos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipenhos" height="30" width="40" /></a>
-<a href="https://discord.gg/felipenhos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="felipenhos" height="30" width="40" /></a>
+### 🛠️ Minhas Habilidades e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns dos desafios práticos que encarei recentemente:
+
+* 📦 **[Merenda Check](https://github.com/Vinicius3442/Merenda-check)**: Sistema de gerenciamento de estoque para merendas escolares. Desenvolvido com algoritmos FIFO para garantir controle rigoroso de validade e fluxo de entrada/saída.
+* 🌱 **[Project Eden](https://github.com/Tomate3181/edenshop)**: Landing page responsiva e completa para uma loja de plantas, aplicando conceitos sólidos de UI/UX e arquitetura de dados (MER e DER bem definidos).
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radium&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📞 Como me encontrar
+
+<p align="center">
+  <a href="https://linkedin.com/in/luizleit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dev.luizsoares@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipenhoslol&show_icons=true&locale=en&layout=compact" alt="felipenhoslol" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipenhoslol&show_icons=true&locale=en" alt="felipenhoslol" /></p>
-
+> *"Despite everything, it's still you"*
