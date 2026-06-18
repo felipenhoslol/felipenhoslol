@@ -106,20 +106,6 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
 
 ---
 
-### 🎧 Fora do Terminal
-
-<div align="center">
-
-<img src="https://media.tenor.com/mzCEGNKRSsIAAAAd/chainsaw-man-denji.gif" width="280" align="right" />
-
-| 🎵 No Fone | 📖 Na Cabeceira | 🎬 Na Tela |
-|:---:|:---:|:---:|
-| [![Twikipedia](https://img.shields.io/badge/Twikipedia-Discografia-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k) | [![Scott Pilgrim](https://img.shields.io/badge/Bryan_Lee_O'Malley-Scott_Pilgrim-e63946?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.bryanleeomalley.com/) | [![Chainsaw Man](https://img.shields.io/badge/Chainsaw_Man-Anime-FF4500?style=for-the-badge&logo=crunchyroll&logoColor=white)](https://myanimelist.net/anime/44511/Chainsaw_Man) |
-| [![sewerslvt](https://img.shields.io/badge/sewerslvt-Discografia-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1A2L7SCF3MZ5bTI5mEkCTF) | [![Scott Pilgrim](https://img.shields.io/badge/Scott_Pilgrim-vs._the_World_(film)-FFD700?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/title/tt0446029/) | [![MAL](https://img.shields.io/badge/Fujimoto_Tatsuki-Mangaka-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/people/11397/Tatsuki_Fujimoto) |
-
-</div>
-
-<br clear="right"/>
 
 <div align="center">
 
@@ -129,17 +115,3 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI com conclusão prevista pa
 </div>
 
 ---
-
-<div align="center">
-  <sub><i>commitando código, ouvindo sewerslvt, e vendo Chainsaw Man no intervalo.</i></sub>
-  <br/>
-  <sub>
-    <a href="https://open.spotify.com/artist/7oSEVuwVKuS3M5u7wvMN4k">🎵 twikipedia</a>
-    &nbsp;·&nbsp;
-    <a href="https://open.spotify.com/artist/1A2L7SCF3MZ5bTI5mEkCTF">🎵 sewerslvt</a>
-    &nbsp;·&nbsp;
-    <a href="https://myanimelist.net/anime/44511/Chainsaw_Man">⛓️ Chainsaw Man</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/felipenhoslol">💻 GitHub</a>
-  </sub>
-</div>
